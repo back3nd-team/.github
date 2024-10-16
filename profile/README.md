@@ -29,7 +29,7 @@ Let's stay focused and work together to deliver an innovative product to the ope
 
 ---
 
-## A Motivational Message to the Development Team
+## Message to the Development Team
 
 Welcome to the development journey of **back3nd**, a project that has the potential to change the way developers build and manage backends. This project is **open-source** and **free**, meaning the impact we make here could reach developers and teams worldwide.
 
